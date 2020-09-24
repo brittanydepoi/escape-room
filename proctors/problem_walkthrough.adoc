@@ -1,0 +1,19 @@
+# Escape Room Walkthrough
+
+*FOR PROCTORS ONLY*
+
+This document contains _spoilers_ for the escape room.
+
+## Problem 1
+The first survival guide rule eliminates Amy's clues because she is "someone no one trusts". The most trusted person is Bui (trusted by four people). Based on the second and third survival guide rules, we know to trust Bui, Caden, Dariya, and Elena. Following their hints only, we arrive at the conclusion that it is a four-digit combination whose digits adhere to the equation 4x + y + 2x + x = 19. From this, we can deduce that x = 2 and y = 5. So, the combination is 8542.
+
+## Problem 2
+
+Each path on the map is marked with a weight. The shortest route is the route where the sum of the weights of each path taken is as small as possible. The shortest route on the map has a total weight of 43. The problem informs us to "add an extra minute at the end". We append a 1 to the end of 43 to represent this extra minute, resulting in a combination of 431.
+
+## Problem 3
+The stable roommate pairings are Aniyah & Laura, Duong & Eva, and Gabriel & Saleema. Match each letter in GLAD (G: Gabriel, L: Laura, A: Aniyah, D: Duong) with the determined roommate pairing to arrive at the combination of SALE (S: Saleema, A: Aniyah, L: Laura, E: Eva). 
+
+## Problem 4
+
+Reference the congratulatory messages from each lock box to help match the algorithms to the real-world problems. Shortest path matches to wireless networks, page rank matches to twitter newsfeed, and stable roommates matches to mentor assignments. Use the bold capitalized letters (WNK, TF, and MA) and the order identified by the list of algorithms to determine the combination of WNKTFMA.
